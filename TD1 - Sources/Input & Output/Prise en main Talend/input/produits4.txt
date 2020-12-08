@@ -1,0 +1,8 @@
+prod_id;prix;prod_lib
+1;150.33;Nintendo DS
+2;399.90;Playstation
+3;233.30;Saturn
+4;155.5;Super Nintendo
+5;NC;Game Gear
+6;155;Game Gear
+
